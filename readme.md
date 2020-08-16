@@ -1,5 +1,5 @@
 ﻿
-# Henry Schein One
+# Henry Schein One - In the command line use either "nodemon server.js" or "node server.js" to start the server and run the web page on localhost:3000
 ## Explanation
 
 Create a web form that gathers the following information from the user:
