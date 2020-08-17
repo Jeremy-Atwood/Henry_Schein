@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Practices used for data modeling and viewing
+# Practices used for data modeling and viewing
 -I grabbed the input from the user directly on the HTML file and, to protect data at this time, I used an API request to send that data to server side Javascript file to run the calculations on the salary.
 -Once that salary information was calculated I then sent that data to the View/Data/info.js file to save that object into a new array to have the entered persons data replace the information in the business card and the salary adjustment card.
 -With that array in the View/Data/info.js file I am going to set it up to be read by the NPM sequilize to add the object into an SQL database to be called back to in the future to be either deleted or updated as desired. Also, a new card is going to be added that retrieves that data from the API call/ database with an added on ID to be able to be updated and deleted to have a full CRUD methodology available.
