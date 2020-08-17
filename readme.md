@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Practices used for data modeling and viewing
 -I grabbed the input from the user directly on the HTML file and, to protect data at this time, I used an API request to send that data to server side Javascript file to run the calculations on the salary.
 -Once that salary information was calculated I then sent that data to the View/Data/info.js file to save that object into a new array to have the entered persons data replace the information in the business card and the salary adjustment card.
